@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Tinker Virtual Academy",
+	"description": "Tinker Virtual Academy",
+	"version": "1.0",
+	"permissions": [
+	],
+	"browser_action": {
+		"default_icon": {
+			"19" : "icon19x19.png",
+			"38" : "icon38x38.png"
+		},
+		"default_title": "Click here to access the Tinker Academy class"
+	}
+}
